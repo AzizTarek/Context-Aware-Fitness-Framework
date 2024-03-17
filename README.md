@@ -1,4 +1,4 @@
-# CONTEXTUAL TRIGGERS
+# Context-Aware Fitness Framework
 Developed a sophisticated framework that seamlessly operates in the 
 background of mobile phones, utilizing Kotlin and various APIs 
 (OpenWeather, AirPollution, Sleep, etc.). This intelligent system reads the 
